@@ -4,7 +4,7 @@ Olá! Eu sou Paula Mye,
 
 🔎 Sobre mim
 Sou uma desenvolvedora Full Stack em formação e em transição de carreira, apaixonada por tecnologia e aprendizado autodidata. 
-Atualmente, estou cursando Engenharia da Computação e desenvolvendo projetos práticos para consolidar meus conhecimentos.
+Atualmente, estou cursando Engenharia de Computação e desenvolvendo projetos práticos para consolidar meus conhecimentos.
 
 🔧 Foco em HTML, CSS, JavaScript (Node.js) e Java (Spring Boot)
 
